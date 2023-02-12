@@ -1,0 +1,4 @@
+my_enviro/
+*.py.log
+*.png
+logs/
